@@ -1,33 +1,3 @@
-body {
-    padding: 0;
-    margin: 0;
-    display: flex;
-    flex-direction: column;
-    font-family: 'Courier New', Courier, monospace;
-}
-
-
-
-.main_container {
-    width: 100%;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    height: auto;
-}
-
-.card_container {
-    width: 70%;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    flex-wrap: wrap;
-    margin-top: 160px;
-}
-
 .product_card {
     height: auto;
     width: 360px;
